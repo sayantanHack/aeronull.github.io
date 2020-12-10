@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Aero Nulll
-  location: Kolkata
+  location: location
   social: Around the Web
   credits: Credits
 
@@ -52,7 +52,7 @@ address:
   - line: Barasat, Kolkata
 
 # Credits content
-credits: ''
+credits: 'Anyone but Not You'
 
 # Build settings
 markdown: kramdown
